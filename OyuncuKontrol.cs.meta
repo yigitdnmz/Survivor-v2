@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 409eed0363d16f1478665e1695a02a8d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mermiPos: {instanceID: 0}
+  - mermi: {fileID: 6328170846707619924, guid: dd772109203df21408e9be5472afd33f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
